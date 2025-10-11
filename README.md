@@ -349,6 +349,7 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 ## Software 💻
 
+-   [Athlytics](https://github.com/HzaCode/Athlytics) - An R framework for longitudinal analysis of exercise physiology metrics using local Strava data exports.
 -   [ast-monitor](https://github.com/firefly-cpp/AST-Monitor) - A wearable Raspberry Pi computer for cyclists.
 -   [ast-tdl](https://github.com/firefly-cpp/ast-tdl) - Training Description Language.
 -   [gpx](https://cran.r-project.org/web/packages/gpx/index.html) - Process GPX Files into R Data Structures.
