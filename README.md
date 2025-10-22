@@ -180,6 +180,8 @@ This repository serves as a list of knowledge for researchers working in Computa
 
 -   Hliš, Tilen, et. al. "[Path Overlap Detection and Property Graph Construction from TCX Data for Advanced Analysis](https://iztok.link/static/publications/345.pdf)." 2025 IEEE 23rd World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, 2025, pp. 000489-000494, doi: [10.1109/SAMI63904.2025.10883235](10.1109/SAMI63904.2025.10883235).
 
+-   Hliš, Tilen, et. al. "[Time-aware analysis of overlapping cycling segments from activity tracker data](https://ieeexplore.ieee.org/document/11205378)." 2025 IEEE 23rd Jubilee International Symposium on Intelligent Systems and Informatics (SISY), Subotica, Serbia, 2025, pp. 000201-000206, doi: [10.1109/SISY67000.2025.11205378](10.1109/SISY67000.2025.11205378).
+
 -   Kipp, Kristof, et al. “[Use of Machine Learning to Model Volume Load Effects on Changes in Jump Performance](https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p285.xml?utm_source=TrendMD&utm_medium=cpc&utm_campaign=International_Journal_of_Sports_Physiology_and_Performance_TrendMD_1).” International Journal of Sports Physiology and Performance, vol. 15, no. 2, Human Kinetics, Feb. 2020, pp. 285–87, doi:[10.1123/IJSPP.2019-0009](https://doi.org/10.1123/IJSPP.2019-0009).
 
 -   Kumyaito, Nattapon, et al. “[Planning a Sports Training Program Using Adaptive Particle Swarm Optimization with Emphasis on Physiological Constraints](10.1186/s13104-017-3120-9).” BMC Research Notes, vol. 11, no. 1, Dec. 2018, p. 9, doi:[10.1186/s13104-017-3120-9](https://doi.org/10.1186/s13104-017-3120-9).
